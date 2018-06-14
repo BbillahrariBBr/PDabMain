@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Pother Dabi Main</string>
+    <string name="open_drawer">Open Navigation Drawer</string>
+    <string name="close_drawer">Close Navigation Drawer</string>
+    <string name="imgdesctoilet">Toilet</string>
+    <string name="imgdescpetrolpump">Petrol Pump</string>
+    <string name="imgdescpharmacy">Pharmacy</string>
+    <string name="imgdescblood_bank">Blood Bank</string>
+    <string name="imagedescpostoffice">Post Office</string>
+    <string name="imagedesccourierservice">Courier Service</string>
+    <string name="imagedescgovtoffice">Govt Office</string>
+    <string name="imagedesctransport">Transport</string>
+    <string name="imagedescemergencycall">Emergency Call</string>
+    <string name="imagedescentertainment">Entertainment</string>
+    <string name="imagedescfestival">Festival</string>
+    <string name="imagedesceducation">Education</string>
+    <string name="imagedesctitle_ramadan">title Ramadan</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps2">Map</string>
+    <string name="place_image">place_image</string>
+    <string name="title_activity_view_direction">Map</string>
+    <string name="menu_contribute">Contribution</string>
+    <string name="menu_my_location">My Location</string>
+    <string name="menu_route_finder">Route Finder</string>
+    <string name="menu_street_view">Street View</string>
+    <string name="menu_about">About</string>
+    <string name="title_activity_map_detail">Map</string>
+    <string name="title_activity_open_places">Map</string>
+    <string name="title_activity_my_location">Map</string>
+    <string name="title_activity_route_finder">Map</string>
+</resources>
